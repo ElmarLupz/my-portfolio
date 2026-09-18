@@ -6,13 +6,13 @@ A responsive personal portfolio website by **Elmar Lupogan**, built as part of t
 
 > Add your GitHub Pages link here after deployment.
 
-[View Portfolio](https://shazai.github.io/portfolio-website/)
+[View Portfolio](https://elmarlupz.github.io/my-portfolio/)
 
 ## Screenshot
 
 > Add a homepage screenshot to your `images/` folder, then update the path below.
 
-![Portfolio Homepage](images/portfolio-homepage.png)
+![Portfolio Homepage](images/Me.png)
 
 ## Technologies Used
 
